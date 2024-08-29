@@ -1,0 +1,92 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>References</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            font-size: 1.5em;
+        }
+        .reference {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>References</h1>
+    <div class="reference">
+        Hernán, M. A., & Robins, J. M. (2020). *Causal inference: What if*. Boca Raton: Chapman & Hall/CRC.
+    </div>
+    <div class="reference">
+        Rubin, D. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. *Journal of Educational Psychology, 66*(4), 688–701.
+    </div>
+    <div class="reference">
+        Robins, J. M. (1989). The analysis of randomized and non-randomized AIDS treatment trials using a new approach to causal inference in longitudinal studies. In L. Sechrest, H. Freeman, & A. Mulley (Eds.), *Health service research methodology: A focus on AIDS* (pp. 113-159). U.S. Public Health Service, National Center for Health Services Research.
+    </div>
+    <div class="reference">
+        Pearl, J. (2009). *Causality*. Cambridge University Press. (2nd ed.)
+    </div>
+    <div class="reference">
+        Rubin, D. (2000). Causal inference without counterfactuals (with comments and rejoinder). *Journal of the American Statistical Association, 95*(450), 407–448.
+    </div>
+    <div class="reference">
+        Dang, L. E., et al. (2023). A causal roadmap for generating high-quality real-world evidence. *Journal of Clinical and Translational Science, 7*(1), e212.
+    </div>
+    <div class="reference">
+        Bickel, P. J., & Ritov, Y. (1988). Estimating integrated squared density derivatives: Sharp best order of convergence estimates. *Sankhyā: The Indian Journal of Statistics, Series A, 50*(3), 381-393.
+    </div>
+    <div class="reference">
+        Pfanzagl, J. (1992). *Contributions to a general asymptotic statistical theory*. Springer-Verlag.
+    </div>
+    <div class="reference">
+        Newey, W. K. (1990). Semiparametric efficiency bounds. *Journal of Applied Econometrics, 5*(2), 99-135. https://doi.org/10.1002/jae.3950050202
+    </div>
+    <div class="reference">
+        van der Laan, M. J., & Rubin, D. (2006). Targeted maximum likelihood learning. *The International Journal of Biostatistics, 2*(1). https://doi.org/10.2202/1557-4679.1043
+    </div>
+    <div class="reference">
+        van der Laan, M. J., & Rose, S. (2011). *Targeted learning: Causal inference for observational and experimental data*. Springer.
+    </div>
+    <div class="reference">
+        Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018). Double/debiased machine learning for treatment and structural parameters. *The Econometrics Journal, 21*(1), C1-C68. https://doi.org/10.1111/ectj.12097
+    </div>
+    <div class="reference">
+        Wang, L., & Tchetgen Tchetgen, E. (2018). Bounded, efficient and multiply robust estimation of average treatment effects using instrumental variables. *Journal of the Royal Statistical Society: Series B (Statistical Methodology), 80*(3), 531–550.
+    </div>
+    <div class="reference">
+        Nie, X., & Wager, S. (2021). Quasi-oracle estimation of heterogeneous treatment effects. *Biometrika, 108*(2), 299-319. https://doi.org/10.1093/biomet/asaa076
+    </div>
+    <div class="reference">
+        Athey, S., Tibshirani, J., & Wager, S. (2019). Generalized random forests. *The Annals of Statistics, 47*(2), 1148-1178. https://doi.org/10.1214/18-AOS1709
+    </div>
+    <div class="reference">
+        Kennedy, E. H. (2020). Towards optimal doubly robust estimation of heterogeneous causal effects. *Electronic Journal of Statistics*. arXiv:2004.14497
+    </div>
+    <div class="reference">
+        Syrgkanis, V. (2019). Machine learning estimation of heterogeneous treatment effects with instruments. In *Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS 2019)*. Retrieved from https://proceedings.neurips.cc/paper_files/paper/2019/file/3b2acfe2e38102074656ed938abf4ac3-Paper.pdf
+    </div>
+    <div class="reference">
+        Foster, D. J., & Syrgkanis, V. (2023). Orthogonal statistical learning. *The Annals of Statistics, 51*(3), 879–908. https://doi.org/10.1214/23-AOS2258
+    </div>
+    <div class="reference">
+        Subbaswamy, A., & Saria, S. (2020). From development to deployment: Dataset shift, causality, and shift-stable models in health AI. *Biostatistics, 21*(2), 345-352.
+    </div>
+    <div class="reference">
+        Coston, A., Mishler, A., Kennedy, E. H., & Chouldechova, A. (2020). Counterfactual risk assessments, evaluation, and fairness. In *Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* '20)* (pp. 582–593). Association for Computing Machinery. https://doi.org/10.1145/3351095.3372851
+    </div>
+    <div class="reference">
+        Nabi, R., & Shpitser, I. (2018). Fair inference on outcomes. In *Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence*.
+    </div>
+    <div class="reference">
+        Heskes, T. M., Sijben, E., Bucur, I. G., & Claassen, T. (2020). Causal Shapley values: Exploiting causal knowledge to explain individual predictions of complex models. *34th Conference on Neural Information Processing Systems (NeurIPS 2020)*. Retrieved from https://proceedings.neurips.cc/paper/2020/file/32e54441e6382a7fbacbbbaf3c450059-Paper.pdf
+    </div>
+</body>
+</html>
+```
